@@ -531,7 +531,7 @@ table {
 }
 
 .logo-icon {
-    background: url('/images/twitchcord-logo.png') no-repeat 50%;
+    background: url('/images/twitchcord-logo.png') no-repeat 50% / 100%;
     width: 35px;
     height: 37px;
     display: inline-block;
