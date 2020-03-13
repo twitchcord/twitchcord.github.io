@@ -667,6 +667,7 @@ html, body {
   background: #2c2541;
   z-index: 3;
   margin-top: -20px;
+  box-shadow: 0 0 100px #000;
 }
 
 .about-twitchcord::before {
